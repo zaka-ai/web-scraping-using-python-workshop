@@ -20,7 +20,3 @@ https://colab.research.google.com/drive/1sGk6pBxcTcASl5wXOPV-pk0QTYB7FqwB
 <br />
 
 To edit the code, click **File** then **Save a copy in Drive…** <br />
-<br /><br />
-
-## Recording
-You can watch the webinar recording [here](https://education.zaka.ai/data-collection-and-web-scraping-workshop).
